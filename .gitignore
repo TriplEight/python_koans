@@ -4,3 +4,5 @@
 answers
 .hg
 .idea
+.cache
+python3/koans/.cache/
